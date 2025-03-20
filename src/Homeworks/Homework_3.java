@@ -1,4 +1,4 @@
-package com.Homeworks;
+package Homeworks;
 
 import com.Complex.Complex;
 import com.Rectangle.Rectangle;

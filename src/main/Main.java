@@ -1,6 +1,6 @@
 package main;
 
-import com.Homeworks.Homework_3;
+import Homeworks.Homework_3;
 
 public class Main {
 

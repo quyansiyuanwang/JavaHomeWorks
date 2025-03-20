@@ -7,7 +7,7 @@
 ## 作业说明
 
 - `src` 目录下是作业代码
-- `src/com/Homeworks` 目录下是作业运行/示例代码
+- `src/Homeworks` 目录下是作业运行/示例代码
 - `src/com` 目录下是一些类代码
 - `src/main` 目录下是`当前作业`入口代码
 - `src/Bases` 目录下是作业`基类`代码  
@@ -36,7 +36,7 @@
 ## 如何运行
 
 - 运行根目录为当前目录
-- 打开`src/main/Main.java`文件, 导入需要运行的作业代码, 例如`import com.Homeworks.Homework_1;`
+- 打开`src/main/Main.java`文件, 导入需要运行的作业代码, 例如`import Homeworks.Homework_1;`
 - 修改`Main.java`文件中的`main`方法中的调用作业代码, 例如`Homework_1.run();`
 - 运行 `cmd` 命令`java ./src/main/Main.java`以运行`Main.java`文件, 查看运行结果
 

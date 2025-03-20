@@ -1,4 +1,4 @@
-package com.Homeworks;
+package Homeworks;
 
 import com.Persons.Person;
 import com.Persons.Student;
