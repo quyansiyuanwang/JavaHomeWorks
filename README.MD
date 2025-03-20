@@ -15,9 +15,9 @@
 
 ## 作业列表
 
-- [Java 上机 1.回文年月猜数字](/src/com/Homeworks/Homework_1.java)
-- [Java 上机 2.编写类](/src/com/Homeworks/Homework_2.java)
-- [Java 上机 3.编写类](/src/com/Homeworks/Homework_3.java)
+- [Java 上机 1.回文年月猜数字](/src/Homeworks/Homework_1.java)
+- [Java 上机 2.编写类](/src/Homeworks/Homework_2.java)
+- [Java 上机 3.编写类](/src/Homeworks/Homework_3.java)
 
 ## 作业运行结果
 
