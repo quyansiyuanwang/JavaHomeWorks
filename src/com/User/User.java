@@ -1,10 +1,12 @@
 package com.User;
 
+import com.Persons.Student;
 import com.Vehicle.Vehicle;
 
 public class User {
 
     public static void main() {
+        // Test Vehicle
         Vehicle car1 = new Vehicle(100, 200);
         Vehicle car2 = new Vehicle(100, 76);
         System.out.println(car1);
@@ -22,5 +24,19 @@ public class User {
         car2.speedDown(20);
         System.out.println("car1目前的速度是:" + car1.getSpeed());
         System.out.println("car2目前的速度是:" + car2.getSpeed());
+        car2.speedDown(200);
+
+        // Test Student
+        Student s = new Student(
+                "20210001",
+                "李四",
+                19,
+                Student.Sex.FEMALE,
+                "2001-01-01",
+                "0987654321"
+        );
+        s.displayInfo();
+        System.out.println("总人数：" + Student.count);
     }
+
 }

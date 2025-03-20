@@ -11,11 +11,29 @@ public class Vehicle {
     }
 
     public void speedUp(int s) {
-        speed += s;
+        if (s < 0) {
+            System.err.println("Speed must be positive");
+            return;
+        }
+        int newSpeed = (int) speed + s;
+        if (newSpeed > 200) {
+            System.err.println("Speed can't be more than 200");
+            return;
+        }
+        speed = newSpeed;
     }
 
-    public void speedDown(int d) {
-        speed -= d;
+    public void speedDown(int s) {
+        if (s < 0) {
+            System.err.println("Speed must be positive");
+            return;
+        }
+        int newSpeed = (int) speed - s;
+        if (newSpeed < 0) {
+            System.err.println("Speed can't be negative");
+            return;
+        }
+        speed = newSpeed;
     }
 
     public void setPower(int p) {
@@ -30,8 +48,13 @@ public class Vehicle {
         return speed;
     }
 
+    public void brake() {
+        speed = 0;
+    }
+
     @Override
     public String toString() {
         return "Vehicle[" + "speed=" + speed + ", power=" + power + ']';
     }
+
 }

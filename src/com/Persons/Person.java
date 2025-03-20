@@ -4,12 +4,12 @@ import Bases.Person.PersonBase;
 
 public class Person extends PersonBase {
 
-    public Person(String name, int age) {
-        super(name, age);
+    public Person(String name, int age, Sex sex, String birthDate, String ID) {
+        super(name, age, sex, birthDate, ID);
     }
 
     @Override
     public void displayInfo() {
-        System.out.println("我叫" + name + ", 今年" + age + "岁");
+        System.err.println("Not implemented");
     }
 }
