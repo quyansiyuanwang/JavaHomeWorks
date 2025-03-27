@@ -2,7 +2,7 @@
 
 这是 Java 作业 repo
 
-[点此跳转到最新作业结果](#上机-4-编写类)
+[点此跳转到最新作业结果](#上机-5-子类与继承)
 
 ## 作业说明
 
@@ -18,6 +18,8 @@
 - [Java 上机 1.回文年月猜数字](/src/Homeworks/Homework_1.java)
 - [Java 上机 2.编写类](/src/Homeworks/Homework_2.java)
 - [Java 上机 3.编写类](/src/Homeworks/Homework_3.java)
+- [Java 上机 4.编写类](/src/Homeworks/Homework_4.java)
+- [Java 上机 5.子类与继承](/src/Homeworks/Homework_5.java)
 
 ## 作业
 
@@ -68,6 +70,18 @@
 - [src/com/User/User.java](/src/com/User/User.java)
 - [src/com/Vehicle/Vehicle.java](/src/com/Vehicle/Vehicle.java)
 - [src/Homeworks/Homework_4.java](/src/Homeworks/Homework_4.java)
+
+---
+
+### 上机 5 子类与继承
+
+![Java上机5.子类与继承](/resources/Homework_5_Result.png)
+
+#### 有关文件 5
+
+- [src/com/Rectangle/Rect.java](/src/com/Rectangle/Rect.java)
+- [src/com/Rectangle/PlainRect.java](/src/com/Rectangle/PlainRect.java)
+- [src/Homeworks/Homework_5.java](/src/Homeworks/Homework_5.java)
 
 ---
 
