@@ -2,7 +2,7 @@
 
 这是 Java 作业 repo
 
-[点此跳转到最新作业结果](#上机-5-子类与继承)
+[点此跳转到最新作业结果](#上机-6-子类与继承-2)
 
 ## 作业说明
 
@@ -20,6 +20,7 @@
 - [Java 上机 3.编写类](/src/Homeworks/Homework_3.java)
 - [Java 上机 4.编写类](/src/Homeworks/Homework_4.java)
 - [Java 上机 5.子类与继承](/src/Homeworks/Homework_5.java)
+- [Java 上机 6.子类与继承(2)](/src/Homeworks/Homework_6.java)
 
 ## 作业
 
@@ -82,6 +83,20 @@
 - [src/com/Rectangle/Rect.java](/src/com/Rectangle/Rect.java)
 - [src/com/Rectangle/PlainRect.java](/src/com/Rectangle/PlainRect.java)
 - [src/Homeworks/Homework_5.java](/src/Homeworks/Homework_5.java)
+
+---
+
+### 上机 6 子类与继承-2
+
+![Java上机6.子类与继承(2)](/resources/Homework_6_Result.png)
+
+### 有关文件 6
+
+- [src/Bases/Person/PeopleBase.java](/src/Bases/Person/PeopleBase.java)
+- [/src/com/People/AmericanPeople.java](/src/com/People/AmericanPeople.java)
+- [/src/com/People/ChinaPeople.java](/src/com/People/ChinaPeople.java)
+- [/src/com/People/BeijingPeople.java](/src/com/People/BeijingPeople.java)
+- [/src/Homeworks/Homework_6.java](/src/Homeworks/Homework_6.java)
 
 ---
 
