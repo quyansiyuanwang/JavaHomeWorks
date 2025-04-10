@@ -2,7 +2,7 @@
 
 这是 Java 作业 repo
 
-[点此跳转到最新作业结果](#上机-6-子类与继承-2)
+[点此跳转到最新作业结果](#上机-8-抽象派生实现类)
 
 ## 作业说明
 
@@ -21,6 +21,7 @@
 - [Java 上机 4.编写类](/src/Homeworks/Homework_4.java)
 - [Java 上机 5.子类与继承](/src/Homeworks/Homework_5.java)
 - [Java 上机 6.子类与继承(2)](/src/Homeworks/Homework_6.java)
+- [Java 上机 8.抽象派生实现类](/src/Homeworks/Homework_7.java)
 
 ## 作业
 
@@ -97,6 +98,20 @@
 - [/src/com/People/ChinaPeople.java](/src/com/People/ChinaPeople.java)
 - [/src/com/People/BeijingPeople.java](/src/com/People/BeijingPeople.java)
 - [/src/Homeworks/Homework_6.java](/src/Homeworks/Homework_6.java)
+
+---
+
+### 上机 8 抽象派生实现类
+
+![Java上机8.抽象派生实现类](/resources/Homework_7_Result.png)
+
+#### 有关文件 7
+
+- [/src/Bases/Area/Area.java](/src/Bases/Area/Area.java)
+- [/src/com/Areas/ImpleArea.java](/src/com/Areas/ImpleArea.java)
+- [/src/com/Areas/RoundArea.java](/src/com/Areas/RoundArea.java)
+- [/src/com/Areas/RectArea.java](/src/com/Areas/RectArea.java)
+- [/src/Homeworks/Homework_7.java](/src/Homeworks/Homework_7.java)
 
 ---
 
