@@ -2,7 +2,7 @@
 
 这是 Java 作业 repo
 
-[点此跳转到最新作业结果](#上机-8-抽象派生实现类)
+[点此跳转到最新作业结果](#上机-9-接口)
 
 ## 作业说明
 
@@ -22,6 +22,7 @@
 - [Java 上机 5.子类与继承](/src/Homeworks/Homework_5.java)
 - [Java 上机 6.子类与继承(2)](/src/Homeworks/Homework_6.java)
 - [Java 上机 8.抽象派生实现类](/src/Homeworks/Homework_7.java)
+- [Java 上机 9.接口](/src/Homeworks/Homework_8.java)
 
 ## 作业
 
@@ -94,10 +95,10 @@
 ### 有关文件 6
 
 - [src/Bases/Person/PeopleBase.java](/src/Bases/Person/PeopleBase.java)
-- [/src/com/People/AmericanPeople.java](/src/com/People/AmericanPeople.java)
-- [/src/com/People/ChinaPeople.java](/src/com/People/ChinaPeople.java)
-- [/src/com/People/BeijingPeople.java](/src/com/People/BeijingPeople.java)
-- [/src/Homeworks/Homework_6.java](/src/Homeworks/Homework_6.java)
+- [src/com/People/AmericanPeople.java](/src/com/People/AmericanPeople.java)
+- [src/com/People/ChinaPeople.java](/src/com/People/ChinaPeople.java)
+- [src/com/People/BeijingPeople.java](/src/com/People/BeijingPeople.java)
+- [src/Homeworks/Homework_6.java](/src/Homeworks/Homework_6.java)
 
 ---
 
@@ -107,11 +108,26 @@
 
 #### 有关文件 7
 
-- [/src/Bases/Area/Area.java](/src/Bases/Area/Area.java)
-- [/src/com/Areas/ImpleArea.java](/src/com/Areas/ImpleArea.java)
-- [/src/com/Areas/RoundArea.java](/src/com/Areas/RoundArea.java)
-- [/src/com/Areas/RectArea.java](/src/com/Areas/RectArea.java)
-- [/src/Homeworks/Homework_7.java](/src/Homeworks/Homework_7.java)
+- [src/Bases/Area/Area.java](/src/Bases/Area/Area.java)
+- [src/com/Areas/ImpleArea.java](/src/com/Areas/ImpleArea.java)
+- [src/com/Areas/RoundArea.java](/src/com/Areas/RoundArea.java)
+- [src/com/Areas/RectArea.java](/src/com/Areas/RectArea.java)
+- [src/Homeworks/Homework_7.java](/src/Homeworks/Homework_7.java)
+
+---
+
+### 上机 9 接口
+
+![Java上机9.接口](/resources/Homework_8_Result.png)
+
+#### 有关文件 8
+
+- [/src/Interface/SetAndGetWeight.java](/src/Interface/SetAndGetWeight.java)
+- [/src/com/Computer/Computer.java](/src/com/Computer/Computer.java)
+- [/src/com/People/People.java](/src/com/People/People.java)
+- [/src/com/Television/Television.java](/src/com/Television/Television.java)
+- [/src/com/Train/Train.java](/src/com/Train/Train.java)
+- [/src/com/WashMachine/WashMachine.java](/src/com/WashMachine/WashMachine.java)
 
 ---
 
