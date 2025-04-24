@@ -2,7 +2,7 @@
 
 这是 Java 作业 repo
 
-[点此跳转到最新作业结果](#上机-9-接口)
+[点此跳转到最新作业结果](#上机-10-匿名类)
 
 ## 作业说明
 
@@ -23,6 +23,7 @@
 - [Java 上机 6.子类与继承(2)](/src/Homeworks/Homework_6.java)
 - [Java 上机 8.抽象派生实现类](/src/Homeworks/Homework_7.java)
 - [Java 上机 9.接口](/src/Homeworks/Homework_8.java)
+- [Java 上机 10.匿名类](/src/Homeworks/Homework_9.java)
 
 ## 作业
 
@@ -128,6 +129,16 @@
 - [/src/com/Television/Television.java](/src/com/Television/Television.java)
 - [/src/com/Train/Train.java](/src/com/Train/Train.java)
 - [/src/com/WashMachine/WashMachine.java](/src/com/WashMachine/WashMachine.java)
+
+---
+
+### 上机 10 匿名类
+
+![Java上机10.匿名类](/resources/Homework_9_Result.png)
+
+#### 有关文件 9
+
+- [/src/Homeworks/Homework_9.java](/src/Homeworks/Homework_9.java)
 
 ---
 
