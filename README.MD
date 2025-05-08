@@ -142,6 +142,17 @@
 
 ---
 
+### 上机 11 界面
+
+![Java上机11.界面](/resources/Homework_10_Result.png)
+
+#### 有关文件 10
+
+- [/src/Homeworks/Homework_10.java](/src/Homeworks/Homework_10.java)
+- [/src/GUI/SimpleFrame/SimpleFrame.java](/src/GUI/SimpleFrame/SimpleFrame.java)
+
+---
+
 ## 如何运行
 
 - 运行根目录为当前目录
